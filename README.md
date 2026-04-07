@@ -37,7 +37,24 @@ Focus: Backend, Frontend, Admin Panels, WordPress, UI/UX, Mobile;
 ```
 
 ---
+## 🚀 What I Can Build
 
+<div align="center">
+
+| Area | What I Can Do |
+|------|----------------|
+| Corporate Websites | Kurumsal, premium, hızlı ve mobil uyumlu web siteleri |
+| Admin Panels | Yetkilendirme, içerik yönetimi, dashboard, özel modüller |
+| E-Commerce | Ürün, sipariş, kategori, ödeme akışları, yönetim paneli |
+| Landing Pages | Dönüşüm odaklı tek sayfa modern satış sayfaları |
+| Mobile App Logic | Web backend’i mobil uygulamaya bağlanabilecek şekilde hazırlama |
+| API Ready Systems | Mobil, web veya üçüncü taraf servisler için API uyumlu yapı |
+| WordPress | Tema düzenleme, görsel geliştirme, kurumsal yapı, performans |
+| Branding | Dijital marka görünümü, sunum kalitesi ve premium arayüz hissi |
+
+</div>
+
+---
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -82,14 +99,6 @@ Focus: Backend, Frontend, Admin Panels, WordPress, UI/UX, Mobile;
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=123123123qq&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🐍
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/123123123qq/123123123qq/output/snake.svg" />
 </div>
 
 ---
