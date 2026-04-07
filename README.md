@@ -119,24 +119,6 @@ const clientFlow = {
 };
 ```
 
-### Müşteri çekme sistemi
-
-- Profil README üzerinden güven veren güçlü bir ilk izlenim oluşturma  
-- Sabit 3 repo ile hizmetlerini net gösterme  
-- GitHub profilinden website ve mail'e trafik yönlendirme  
-- Kurumsal görünüm ile bireysel profil yerine marka hissi verme  
-- Ziyaretçiyi “bu adam iş yapıyor” noktasına hızlı taşıma  
-
-### Sabit repo fikirleri
-
-- `premium-php-admin-panel`
-- `modern-business-landing-page`
-- `nodejs-api-starter`
-- `wordpress-brand-setup`
-- `react-dashboard-ui`
-- `mobile-app-backend-ready`
-
----
 
 ## 📌 Featured Service Areas
 
@@ -177,51 +159,6 @@ const clientFlow = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/123123123qq/123123123qq/output/snake.svg" alt="snake animation" />
 </div>
-
----
-
-## ⚙️ Snake Animation Setup
-
-Aşağıdaki dosyayı repo içinde `.github/workflows/snake.yml` olarak oluştur:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate github-contribution-grid-snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: 123123123qq
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Push snake files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-## 🚀 Current Goals
-
-- Daha güçlü full-stack projeler geliştirmek  
-- PHP ve Node.js tarafında daha profesyonel sistemler üretmek  
-- React ve mobil uygulama tarafında daha fazla proje geliştirmek  
-- ExcBilisim markasını büyütmek  
-- GitHub profilini müşteri çekebilen güçlü bir vitrine dönüştürmek  
 
 ---
 
